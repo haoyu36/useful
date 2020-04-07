@@ -50,4 +50,5 @@ def write_to_redis(path, key, context):
 
 
 
-
+with open('fff.json', 'a', encoding='utf-8') as f:
+    f.write(json.dumps(a, indent=2, ensure_ascii=False, default=myconverter) + '\n') 
