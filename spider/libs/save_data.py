@@ -48,6 +48,10 @@ def write_to_redis(path, key, context):
         redis.hset(key, i['index'], json.dumps(i))
 
 
+# 序列化时间
+def myconverter(o):
+    if isinstance(o, datetime.datetime):
+        return o.__str__()
 
 
 with open('fff.json', 'a', encoding='utf-8') as f:
