@@ -63,7 +63,7 @@ json        # JSON 格式的数据，作为 Request 的内容
 `requests.get('http://github.com', timeout=0.001)`
 
 
-## 三：扩展阅读
+## 三：相关阅读
 
 - [官方文档](http://cn.python-requests.org/zh_CN/latest/)
 - [源代码](https://github.com/requests/requests)
