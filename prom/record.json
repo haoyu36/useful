@@ -1,0 +1,1048 @@
+{
+  "CPU": {
+    "pressure-node": [
+      {
+        "instance": "pressure01.wiqun.local:9100",
+        "max_value": 33.77218143807907,
+        "avg_vaule": 6.1510579613016025
+      },
+      {
+        "instance": "pressure02.wiqun.local:9100",
+        "max_value": 51.83334478663335,
+        "avg_vaule": 6.906273807361267
+      },
+      {
+        "instance": "pressure03.wiqun.local:9100",
+        "max_value": 93.23657068778161,
+        "avg_vaule": 6.194138631070119
+      }
+    ],
+    "cluster-node": [
+      {
+        "instance": "192-168-1-191",
+        "max_value": 9.389430477167771,
+        "avg_vaule": 6.570222645397464
+      },
+      {
+        "instance": "192-168-1-192",
+        "max_value": 53.36707525369226,
+        "avg_vaule": 8.136168856724785
+      },
+      {
+        "instance": "192-168-1-193",
+        "max_value": 49.638164040605226,
+        "avg_vaule": 17.750157728539016
+      },
+      {
+        "instance": "192-168-1-194",
+        "max_value": 29.38462665071867,
+        "avg_vaule": 7.993238301757173
+      },
+      {
+        "instance": "192-168-1-195",
+        "max_value": 29.258014225860187,
+        "avg_vaule": 6.879086613985091
+      },
+      {
+        "instance": "192-168-1-196",
+        "max_value": 55.498768701505995,
+        "avg_vaule": 11.477938546869238
+      }
+    ],
+    "cluster-pod": [
+      {
+        "instance": "tl-adminservice",
+        "max_value": 0.005667091236856737,
+        "avg_vaule": 0.0042803967443130935
+      },
+      {
+        "instance": "tl-advertservice",
+        "max_value": 0.00914564655531095,
+        "avg_vaule": 0.0065244427142902035
+      },
+      {
+        "instance": "tl-arbiterservice",
+        "max_value": 0.007715988888068524,
+        "avg_vaule": 0.005352520744895971
+      },
+      {
+        "instance": "tl-authservice",
+        "max_value": 0.017910341492575903,
+        "avg_vaule": 0.006825738908758698
+      },
+      {
+        "instance": "tl-b2cbankrollservice",
+        "max_value": 0.008262684673525724,
+        "avg_vaule": 0.0056981767278313986
+      },
+      {
+        "instance": "tl-bankrollservice",
+        "max_value": 0.008243411882452268,
+        "avg_vaule": 0.005574970372854934
+      },
+      {
+        "instance": "tl-bookservice",
+        "max_value": 3.7479424035824347,
+        "avg_vaule": 0.7416162368757033
+      },
+      {
+        "instance": "tl-chatservice",
+        "max_value": 0.005266370638969497,
+        "avg_vaule": 0.0038660929743232157
+      },
+      {
+        "instance": "tl-clubservice",
+        "max_value": 0.00704863818110546,
+        "avg_vaule": 0.005102907880101901
+      },
+      {
+        "instance": "tl-conferenceservice",
+        "max_value": 0.008775276628594144,
+        "avg_vaule": 0.006134543319790161
+      },
+      {
+        "instance": "tl-dealergateway",
+        "max_value": 0.004490731063271991,
+        "avg_vaule": 0.003351247593131637
+      },
+      {
+        "instance": "tl-doorgateway",
+        "max_value": 0.017069485472354623,
+        "avg_vaule": 0.004011345653154964
+      },
+      {
+        "instance": "tl-figureservice",
+        "max_value": 0.008133961970087814,
+        "avg_vaule": 0.005533060806595206
+      },
+      {
+        "instance": "tl-foodservice",
+        "max_value": 0.007081285699771775,
+        "avg_vaule": 0.005318866442726013
+      },
+      {
+        "instance": "tl-friendservice",
+        "max_value": 0.006225518555876756,
+        "avg_vaule": 0.004580708784965027
+      },
+      {
+        "instance": "tl-giftservice",
+        "max_value": 0.009584264295857448,
+        "avg_vaule": 0.006743387214461446
+      },
+      {
+        "instance": "tl-historyservice",
+        "max_value": 0.006955614949550995,
+        "avg_vaule": 0.00500284265759134
+      },
+      {
+        "instance": "tl-hometownservice",
+        "max_value": 0.008022188637153257,
+        "avg_vaule": 0.0056216584778731055
+      },
+      {
+        "instance": "tl-hookgateway",
+        "max_value": 0.004775980424097278,
+        "avg_vaule": 0.003305710958307693
+      },
+      {
+        "instance": "tl-interactionservice",
+        "max_value": 0.009277832051473018,
+        "avg_vaule": 0.006496111403864991
+      },
+      {
+        "instance": "tl-interestservice",
+        "max_value": 0.0076151600296837105,
+        "avg_vaule": 0.0055403047297691585
+      },
+      {
+        "instance": "tl-leaseservice",
+        "max_value": 0.009367357562391642,
+        "avg_vaule": 0.0065452078686615255
+      },
+      {
+        "instance": "tl-lifesupplyservice",
+        "max_value": 0.009429853065056339,
+        "avg_vaule": 0.006826335866268328
+      },
+      {
+        "instance": "tl-maindealgateway",
+        "max_value": 0.0049838942714833,
+        "avg_vaule": 0.0036596150454532095
+      },
+      {
+        "instance": "tl-maingateway",
+        "max_value": 0.004401767452879459,
+        "avg_vaule": 0.0032596223162008036
+      },
+      {
+        "instance": "tl-mainshopgateway",
+        "max_value": 0.0046432129625523,
+        "avg_vaule": 0.003426301907088066
+      },
+      {
+        "instance": "tl-marketergateway",
+        "max_value": 0.0043422987393560005,
+        "avg_vaule": 0.0033398930086689796
+      },
+      {
+        "instance": "tl-mediaservice",
+        "max_value": 0.007195800958618128,
+        "avg_vaule": 0.005083410450892368
+      },
+      {
+        "instance": "tl-mindstreetservice",
+        "max_value": 0.009417385725139173,
+        "avg_vaule": 0.006778183051885113
+      },
+      {
+        "instance": "tl-orderservice",
+        "max_value": 0.00760918712822759,
+        "avg_vaule": 0.005481978398637281
+      },
+      {
+        "instance": "tl-paramservice",
+        "max_value": 0.0060372467956544065,
+        "avg_vaule": 0.004170161518761051
+      },
+      {
+        "instance": "tl-partyservice",
+        "max_value": 0.008501373706604766,
+        "avg_vaule": 0.006092927478262766
+      },
+      {
+        "instance": "tl-productservice",
+        "max_value": 0.009882473784113275,
+        "avg_vaule": 0.006891069293208233
+      },
+      {
+        "instance": "tl-pushservice",
+        "max_value": 0.007155806179962024,
+        "avg_vaule": 0.00534563986688469
+      },
+      {
+        "instance": "tl-receiptservice",
+        "max_value": 0.008033647646405725,
+        "avg_vaule": 0.005699413988567397
+      },
+      {
+        "instance": "tl-recruitservice",
+        "max_value": 0.009395247550598977,
+        "avg_vaule": 0.0068059073904647846
+      },
+      {
+        "instance": "tl-regulatorgateway",
+        "max_value": 0.00489809790204611,
+        "avg_vaule": 0.003433790574187359
+      },
+      {
+        "instance": "tl-renthouseservice",
+        "max_value": 0.009320562003497386,
+        "avg_vaule": 0.006240926149328013
+      },
+      {
+        "instance": "tl-roomservice",
+        "max_value": 0.008982197080818422,
+        "avg_vaule": 0.006385599290262262
+      },
+      {
+        "instance": "tl-schoolmateservice",
+        "max_value": 0.00857650785922576,
+        "avg_vaule": 0.00595691933360473
+      },
+      {
+        "instance": "tl-selfproductservice",
+        "max_value": 0.00957263249407902,
+        "avg_vaule": 0.006857936627819694
+      },
+      {
+        "instance": "tl-sellerservice",
+        "max_value": 0.008925697246737562,
+        "avg_vaule": 0.00631680891706743
+      },
+      {
+        "instance": "tl-staffservice",
+        "max_value": 0.007005371482485713,
+        "avg_vaule": 0.005184078294390053
+      },
+      {
+        "instance": "tl-teacherservice",
+        "max_value": 0.00994808473383795,
+        "avg_vaule": 0.006967108385320666
+      },
+      {
+        "instance": "tl-tipservice",
+        "max_value": 0.008080508205955699,
+        "avg_vaule": 0.005689588836433809
+      },
+      {
+        "instance": "tl-userservice",
+        "max_value": 0.007833210499154317,
+        "avg_vaule": 0.005581317475608818
+      },
+      {
+        "instance": "tl-zoneservice",
+        "max_value": 0.0077495572888152545,
+        "avg_vaule": 0.005684240152282162
+      }
+    ]
+  },
+  "MEM": {
+    "pressure-node": [
+      {
+        "instance": "pressure01.wiqun.local:9100",
+        "max_value": 0.24737734619651752,
+        "avg_vaule": 0.17951187330102317
+      },
+      {
+        "instance": "pressure02.wiqun.local:9100",
+        "max_value": 0.2538051399560155,
+        "avg_vaule": 0.185206370332937
+      },
+      {
+        "instance": "pressure03.wiqun.local:9100",
+        "max_value": 0.3228886108049426,
+        "avg_vaule": 0.26871415070396976
+      }
+    ],
+    "cluster-node": [
+      {
+        "instance": "192-168-1-191",
+        "max_value": 0.22059966118121999,
+        "avg_vaule": 0.2163392869670829
+      },
+      {
+        "instance": "192-168-1-192",
+        "max_value": 0.07999700632856233,
+        "avg_vaule": 0.07024167254891679
+      },
+      {
+        "instance": "192-168-1-193",
+        "max_value": 0.30068549167360514,
+        "avg_vaule": 0.2884209851010133
+      },
+      {
+        "instance": "192-168-1-194",
+        "max_value": 0.2081406690757187,
+        "avg_vaule": 0.2062264413089224
+      },
+      {
+        "instance": "192-168-1-195",
+        "max_value": 0.1863804198131811,
+        "avg_vaule": 0.18076068464482561
+      },
+      {
+        "instance": "192-168-1-196",
+        "max_value": 0.06080895107759865,
+        "avg_vaule": 0.06010418404021203
+      }
+    ],
+    "cluster-pod": [
+      {
+        "instance": "tl-maingateway",
+        "max_value": 966656.0,
+        "avg_vaule": 966656.0
+      },
+      {
+        "instance": "tl-adminservice",
+        "max_value": 1085440.0,
+        "avg_vaule": 1085440.0
+      },
+      {
+        "instance": "tl-teacherservice",
+        "max_value": 1040384.0,
+        "avg_vaule": 1040384.0
+      },
+      {
+        "instance": "tl-giftservice",
+        "max_value": 1052672.0,
+        "avg_vaule": 1052672.0
+      },
+      {
+        "instance": "tl-paramservice",
+        "max_value": 1089536.0,
+        "avg_vaule": 1089536.0
+      },
+      {
+        "instance": "tl-chatservice",
+        "max_value": 995328.0,
+        "avg_vaule": 995328.0
+      },
+      {
+        "instance": "tl-sellerservice",
+        "max_value": 1126400.0,
+        "avg_vaule": 1126400.0
+      },
+      {
+        "instance": "tl-figureservice",
+        "max_value": 1064960.0,
+        "avg_vaule": 1064960.0
+      },
+      {
+        "instance": "tl-interactionservice",
+        "max_value": 1048576.0,
+        "avg_vaule": 1048576.0
+      },
+      {
+        "instance": "tl-mindstreetservice",
+        "max_value": 1040384.0,
+        "avg_vaule": 1040384.0
+      },
+      {
+        "instance": "tl-clubservice",
+        "max_value": 897024.0,
+        "avg_vaule": 897024.0
+      },
+      {
+        "instance": "tl-arbiterservice",
+        "max_value": 1052672.0,
+        "avg_vaule": 1052672.0
+      },
+      {
+        "instance": "tl-partyservice",
+        "max_value": 1069056.0,
+        "avg_vaule": 1069056.0
+      },
+      {
+        "instance": "tl-mainshopgateway",
+        "max_value": 1040384.0,
+        "avg_vaule": 1040384.0
+      },
+      {
+        "instance": "tl-dealergateway",
+        "max_value": 1052672.0,
+        "avg_vaule": 1052672.0
+      },
+      {
+        "instance": "tl-pushservice",
+        "max_value": 983040.0,
+        "avg_vaule": 983040.0
+      },
+      {
+        "instance": "tl-authservice",
+        "max_value": 1077248.0,
+        "avg_vaule": 1077248.0
+      },
+      {
+        "instance": "tl-advertservice",
+        "max_value": 974848.0,
+        "avg_vaule": 974848.0
+      },
+      {
+        "instance": "tl-foodservice",
+        "max_value": 1155072.0,
+        "avg_vaule": 1155072.0
+      },
+      {
+        "instance": "tl-regulatorgateway",
+        "max_value": 1081344.0,
+        "avg_vaule": 1081344.0
+      },
+      {
+        "instance": "tl-hookgateway",
+        "max_value": 1114112.0,
+        "avg_vaule": 1114112.0
+      },
+      {
+        "instance": "tl-friendservice",
+        "max_value": 1011712.0,
+        "avg_vaule": 1011712.0
+      },
+      {
+        "instance": "tl-schoolmateservice",
+        "max_value": 1187840.0,
+        "avg_vaule": 1187840.0
+      },
+      {
+        "instance": "tl-b2cbankrollservice",
+        "max_value": 1077248.0,
+        "avg_vaule": 1077248.0
+      },
+      {
+        "instance": "tl-mediaservice",
+        "max_value": 1126400.0,
+        "avg_vaule": 1126400.0
+      },
+      {
+        "instance": "tl-receiptservice",
+        "max_value": 1105920.0,
+        "avg_vaule": 1105920.0
+      },
+      {
+        "instance": "tl-renthouseservice",
+        "max_value": 1159168.0,
+        "avg_vaule": 1159168.0
+      },
+      {
+        "instance": "tl-leaseservice",
+        "max_value": 1040384.0,
+        "avg_vaule": 1040384.0
+      },
+      {
+        "instance": "tl-maindealgateway",
+        "max_value": 1060864.0,
+        "avg_vaule": 1060864.0
+      },
+      {
+        "instance": "tl-userservice",
+        "max_value": 1142784.0,
+        "avg_vaule": 1142784.0
+      },
+      {
+        "instance": "tl-bankrollservice",
+        "max_value": 897024.0,
+        "avg_vaule": 897024.0
+      },
+      {
+        "instance": "tl-tipservice",
+        "max_value": 1040384.0,
+        "avg_vaule": 1040384.0
+      },
+      {
+        "instance": "tl-recruitservice",
+        "max_value": 983040.0,
+        "avg_vaule": 983040.0
+      },
+      {
+        "instance": "tl-zoneservice",
+        "max_value": 1069056.0,
+        "avg_vaule": 1069056.0
+      },
+      {
+        "instance": "tl-lifesupplyservice",
+        "max_value": 1138688.0,
+        "avg_vaule": 1138688.0
+      },
+      {
+        "instance": "tl-conferenceservice",
+        "max_value": 913408.0,
+        "avg_vaule": 913408.0
+      },
+      {
+        "instance": "tl-marketergateway",
+        "max_value": 1036288.0,
+        "avg_vaule": 1036288.0
+      },
+      {
+        "instance": "tl-interestservice",
+        "max_value": 1085440.0,
+        "avg_vaule": 1085440.0
+      },
+      {
+        "instance": "tl-staffservice",
+        "max_value": 1093632.0,
+        "avg_vaule": 1093632.0
+      },
+      {
+        "instance": "tl-selfproductservice",
+        "max_value": 958464.0,
+        "avg_vaule": 958464.0
+      },
+      {
+        "instance": "tl-hometownservice",
+        "max_value": 1122304.0,
+        "avg_vaule": 1122304.0
+      },
+      {
+        "instance": "tl-roomservice",
+        "max_value": 933888.0,
+        "avg_vaule": 933888.0
+      },
+      {
+        "instance": "tl-productservice",
+        "max_value": 995328.0,
+        "avg_vaule": 995328.0
+      },
+      {
+        "instance": "tl-orderservice",
+        "max_value": 970752.0,
+        "avg_vaule": 970752.0
+      },
+      {
+        "instance": "tl-doorgateway",
+        "max_value": 1040384.0,
+        "avg_vaule": 1040384.0
+      },
+      {
+        "instance": "tl-bookservice",
+        "max_value": 905216.0,
+        "avg_vaule": 905216.0
+      },
+      {
+        "instance": "tl-historyservice",
+        "max_value": 966656.0,
+        "avg_vaule": 966656.0
+      },
+      {
+        "instance": "tl-adminservice",
+        "max_value": 77565952.0,
+        "avg_vaule": 77200080.85780886
+      },
+      {
+        "instance": "tl-advertservice",
+        "max_value": 81932288.0,
+        "avg_vaule": 81441494.47841308
+      },
+      {
+        "instance": "tl-arbiterservice",
+        "max_value": 75304960.0,
+        "avg_vaule": 74592533.20886815
+      },
+      {
+        "instance": "tl-authservice",
+        "max_value": 94224384.0,
+        "avg_vaule": 87762218.36829837
+      },
+      {
+        "instance": "tl-b2cbankrollservice",
+        "max_value": 92200960.0,
+        "avg_vaule": 91519066.7039627
+      },
+      {
+        "instance": "tl-bankrollservice",
+        "max_value": 88219648.0,
+        "avg_vaule": 87606159.81351982
+      },
+      {
+        "instance": "tl-bookservice",
+        "max_value": 72359936.0,
+        "avg_vaule": 70296550.90781797
+      },
+      {
+        "instance": "tl-chatservice",
+        "max_value": 76713984.0,
+        "avg_vaule": 76182802.4988345
+      },
+      {
+        "instance": "tl-clubservice",
+        "max_value": 59011072.0,
+        "avg_vaule": 58379790.935822636
+      },
+      {
+        "instance": "tl-conferenceservice",
+        "max_value": 63590400.0,
+        "avg_vaule": 62977346.237762235
+      },
+      {
+        "instance": "tl-dealergateway",
+        "max_value": 61067264.0,
+        "avg_vaule": 60195102.10011642
+      },
+      {
+        "instance": "tl-doorgateway",
+        "max_value": 73519104.0,
+        "avg_vaule": 65518645.7689615
+      },
+      {
+        "instance": "tl-figureservice",
+        "max_value": 62316544.0,
+        "avg_vaule": 61761194.268378064
+      },
+      {
+        "instance": "tl-foodservice",
+        "max_value": 75374592.0,
+        "avg_vaule": 74643747.20745921
+      },
+      {
+        "instance": "tl-friendservice",
+        "max_value": 79069184.0,
+        "avg_vaule": 78541406.28438228
+      },
+      {
+        "instance": "tl-giftservice",
+        "max_value": 63201280.0,
+        "avg_vaule": 62504807.23543124
+      },
+      {
+        "instance": "tl-historyservice",
+        "max_value": 74911744.0,
+        "avg_vaule": 74126887.38461539
+      },
+      {
+        "instance": "tl-hometownservice",
+        "max_value": 61181952.0,
+        "avg_vaule": 60422656.59604191
+      },
+      {
+        "instance": "tl-hookgateway",
+        "max_value": 67461120.0,
+        "avg_vaule": 66653156.518086344
+      },
+      {
+        "instance": "tl-interactionservice",
+        "max_value": 62652416.0,
+        "avg_vaule": 62013998.54545455
+      },
+      {
+        "instance": "tl-interestservice",
+        "max_value": 59408384.0,
+        "avg_vaule": 58876300.69544924
+      },
+      {
+        "instance": "tl-leaseservice",
+        "max_value": 63774720.0,
+        "avg_vaule": 63412219.226107225
+      },
+      {
+        "instance": "tl-lifesupplyservice",
+        "max_value": 63799296.0,
+        "avg_vaule": 63036260.84848485
+      },
+      {
+        "instance": "tl-maindealgateway",
+        "max_value": 57761792.0,
+        "avg_vaule": 57111531.68728121
+      },
+      {
+        "instance": "tl-maingateway",
+        "max_value": 59670528.0,
+        "avg_vaule": 59059899.37529138
+      },
+      {
+        "instance": "tl-mainshopgateway",
+        "max_value": 58490880.0,
+        "avg_vaule": 58007165.76484284
+      },
+      {
+        "instance": "tl-marketergateway",
+        "max_value": 60178432.0,
+        "avg_vaule": 59718543.81351981
+      },
+      {
+        "instance": "tl-mediaservice",
+        "max_value": 82567168.0,
+        "avg_vaule": 81614370.61072262
+      },
+      {
+        "instance": "tl-mindstreetservice",
+        "max_value": 63483904.0,
+        "avg_vaule": 62881959.28121354
+      },
+      {
+        "instance": "tl-orderservice",
+        "max_value": 80089088.0,
+        "avg_vaule": 79222977.56826137
+      },
+      {
+        "instance": "tl-paramservice",
+        "max_value": 78594048.0,
+        "avg_vaule": 77442222.24708624
+      },
+      {
+        "instance": "tl-partyservice",
+        "max_value": 63197184.0,
+        "avg_vaule": 62386791.11525029
+      },
+      {
+        "instance": "tl-productservice",
+        "max_value": 78966784.0,
+        "avg_vaule": 78073674.59207459
+      },
+      {
+        "instance": "tl-pushservice",
+        "max_value": 80732160.0,
+        "avg_vaule": 79940214.15384616
+      },
+      {
+        "instance": "tl-receiptservice",
+        "max_value": 79974400.0,
+        "avg_vaule": 78915445.55710956
+      },
+      {
+        "instance": "tl-recruitservice",
+        "max_value": 68501504.0,
+        "avg_vaule": 67783793.24796274
+      },
+      {
+        "instance": "tl-regulatorgateway",
+        "max_value": 60014592.0,
+        "avg_vaule": 59490585.65967366
+      },
+      {
+        "instance": "tl-renthouseservice",
+        "max_value": 67100672.0,
+        "avg_vaule": 66308043.48717949
+      },
+      {
+        "instance": "tl-roomservice",
+        "max_value": 79126528.0,
+        "avg_vaule": 78273169.17619604
+      },
+      {
+        "instance": "tl-schoolmateservice",
+        "max_value": 64659456.0,
+        "avg_vaule": 64196431.15985998
+      },
+      {
+        "instance": "tl-selfproductservice",
+        "max_value": 79400960.0,
+        "avg_vaule": 77479916.9044289
+      },
+      {
+        "instance": "tl-sellerservice",
+        "max_value": 79216640.0,
+        "avg_vaule": 77969899.71095571
+      },
+      {
+        "instance": "tl-staffservice",
+        "max_value": 75395072.0,
+        "avg_vaule": 74726812.94172494
+      },
+      {
+        "instance": "tl-teacherservice",
+        "max_value": 65900544.0,
+        "avg_vaule": 65531679.365227535
+      },
+      {
+        "instance": "tl-tipservice",
+        "max_value": 78917632.0,
+        "avg_vaule": 78004625.47491248
+      },
+      {
+        "instance": "tl-userservice",
+        "max_value": 82399232.0,
+        "avg_vaule": 81869624.45740958
+      },
+      {
+        "instance": "tl-zoneservice",
+        "max_value": 79343616.0,
+        "avg_vaule": 78850286.6946387
+      },
+      {
+        "instance": "tl-maingateway",
+        "max_value": 60653568.0,
+        "avg_vaule": 60022420.76079346
+      },
+      {
+        "instance": "tl-adminservice",
+        "max_value": 78823424.0,
+        "avg_vaule": 78285202.92433062
+      },
+      {
+        "instance": "tl-teacherservice",
+        "max_value": 67276800.0,
+        "avg_vaule": 66573239.11318553
+      },
+      {
+        "instance": "tl-giftservice",
+        "max_value": 64192512.0,
+        "avg_vaule": 63558602.2310385
+      },
+      {
+        "instance": "tl-paramservice",
+        "max_value": 79732736.0,
+        "avg_vaule": 78528822.66511086
+      },
+      {
+        "instance": "tl-chatservice",
+        "max_value": 77807616.0,
+        "avg_vaule": 77179094.82517482
+      },
+      {
+        "instance": "tl-sellerservice",
+        "max_value": 80150528.0,
+        "avg_vaule": 79092647.68298368
+      },
+      {
+        "instance": "tl-figureservice",
+        "max_value": 63430656.0,
+        "avg_vaule": 62825193.596266046
+      },
+      {
+        "instance": "tl-interactionservice",
+        "max_value": 63639552.0,
+        "avg_vaule": 63062125.92765461
+      },
+      {
+        "instance": "tl-mindstreetservice",
+        "max_value": 64524288.0,
+        "avg_vaule": 63925349.56359393
+      },
+      {
+        "instance": "tl-clubservice",
+        "max_value": 59928576.0,
+        "avg_vaule": 59276174.48774796
+      },
+      {
+        "instance": "tl-arbiterservice",
+        "max_value": 76357632.0,
+        "avg_vaule": 75644478.73045507
+      },
+      {
+        "instance": "tl-partyservice",
+        "max_value": 64331776.0,
+        "avg_vaule": 63459705.137529135
+      },
+      {
+        "instance": "tl-mainshopgateway",
+        "max_value": 59551744.0,
+        "avg_vaule": 59047706.85314685
+      },
+      {
+        "instance": "tl-dealergateway",
+        "max_value": 62058496.0,
+        "avg_vaule": 61239324.64335664
+      },
+      {
+        "instance": "tl-pushservice",
+        "max_value": 81596416.0,
+        "avg_vaule": 80911887.51515152
+      },
+      {
+        "instance": "tl-authservice",
+        "max_value": 95285248.0,
+        "avg_vaule": 88851196.71411902
+      },
+      {
+        "instance": "tl-advertservice",
+        "max_value": 82784256.0,
+        "avg_vaule": 82417301.18414919
+      },
+      {
+        "instance": "tl-foodservice",
+        "max_value": 76455936.0,
+        "avg_vaule": 75794958.90104774
+      },
+      {
+        "instance": "tl-regulatorgateway",
+        "max_value": 60985344.0,
+        "avg_vaule": 60570060.1443539
+      },
+      {
+        "instance": "tl-hookgateway",
+        "max_value": 68370432.0,
+        "avg_vaule": 67765777.32555425
+      },
+      {
+        "instance": "tl-friendservice",
+        "max_value": 80093184.0,
+        "avg_vaule": 79550067.76689976
+      },
+      {
+        "instance": "tl-schoolmateservice",
+        "max_value": 65888256.0,
+        "avg_vaule": 65383100.19136523
+      },
+      {
+        "instance": "tl-b2cbankrollservice",
+        "max_value": 93360128.0,
+        "avg_vaule": 92601810.10477298
+      },
+      {
+        "instance": "tl-mediaservice",
+        "max_value": 83406848.0,
+        "avg_vaule": 82738636.68065268
+      },
+      {
+        "instance": "tl-receiptservice",
+        "max_value": 80900096.0,
+        "avg_vaule": 80012868.02797203
+      },
+      {
+        "instance": "tl-renthouseservice",
+        "max_value": 68259840.0,
+        "avg_vaule": 67464700.41958041
+      },
+      {
+        "instance": "tl-leaseservice",
+        "max_value": 64966656.0,
+        "avg_vaule": 64451901.46386947
+      },
+      {
+        "instance": "tl-maindealgateway",
+        "max_value": 58814464.0,
+        "avg_vaule": 58169609.26021004
+      },
+      {
+        "instance": "tl-userservice",
+        "max_value": 83423232.0,
+        "avg_vaule": 83009349.60093349
+      },
+      {
+        "instance": "tl-bankrollservice",
+        "max_value": 89309184.0,
+        "avg_vaule": 88496867.95337996
+      },
+      {
+        "instance": "tl-tipservice",
+        "max_value": 79994880.0,
+        "avg_vaule": 79045663.03030303
+      },
+      {
+        "instance": "tl-recruitservice",
+        "max_value": 69464064.0,
+        "avg_vaule": 68766106.55477856
+      },
+      {
+        "instance": "tl-zoneservice",
+        "max_value": 80388096.0,
+        "avg_vaule": 79921362.05128205
+      },
+      {
+        "instance": "tl-lifesupplyservice",
+        "max_value": 64892928.0,
+        "avg_vaule": 64173855.627039626
+      },
+      {
+        "instance": "tl-conferenceservice",
+        "max_value": 64413696.0,
+        "avg_vaule": 63893365.39556593
+      },
+      {
+        "instance": "tl-marketergateway",
+        "max_value": 61296640.0,
+        "avg_vaule": 60758989.874125876
+      },
+      {
+        "instance": "tl-interestservice",
+        "max_value": 60284928.0,
+        "avg_vaule": 59960216.046674445
+      },
+      {
+        "instance": "tl-staffservice",
+        "max_value": 76488704.0,
+        "avg_vaule": 75810066.4988345
+      },
+      {
+        "instance": "tl-selfproductservice",
+        "max_value": 80359424.0,
+        "avg_vaule": 78452695.37456243
+      },
+      {
+        "instance": "tl-hometownservice",
+        "max_value": 62152704.0,
+        "avg_vaule": 61542509.7995338
+      },
+      {
+        "instance": "tl-roomservice",
+        "max_value": 79949824.0,
+        "avg_vaule": 79212749.27738927
+      },
+      {
+        "instance": "tl-productservice",
+        "max_value": 79962112.0,
+        "avg_vaule": 79067575.1981352
+      },
+      {
+        "instance": "tl-orderservice",
+        "max_value": 81162240.0,
+        "avg_vaule": 80194591.03030303
+      },
+      {
+        "instance": "tl-doorgateway",
+        "max_value": 74592256.0,
+        "avg_vaule": 66563503.34655776
+      },
+      {
+        "instance": "tl-bookservice",
+        "max_value": 73334784.0,
+        "avg_vaule": 71198772.63551402
+      },
+      {
+        "instance": "tl-historyservice",
+        "max_value": 75878400.0,
+        "avg_vaule": 75094316.75524476
+      }
+    ]
+  }
+}
